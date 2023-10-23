@@ -12,6 +12,8 @@ int bright = 0;
 int led_max = 255;
 int led_min = 0;
 
+ // analogRead range from 0 to 1023, and an analogWrite range only from 0 to 255
+
 void setup ()
 {
   Serial.begin(9600); 
