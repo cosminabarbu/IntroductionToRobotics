@@ -1,4 +1,4 @@
-# IntroductionToRobotics ( 2023 - 2024 )
+`# IntroductionToRobotics ( 2023 - 2024 )
 
 
 The Robotics laboratory assignments are part of the curriculum for third-year students at the Faculty of Mathematics and Computer Science, University of Bucharest. Each assignment encompasses specified criteria, detailed implementation instructions, as well as accompanying code and image files.
@@ -21,5 +21,19 @@ Taking the process step by step, I began by placing 3 buttons on a breadboard wh
 
 
 Youtube link: https://youtu.be/r8Axozp_nhE .
+
+
+# Homework no. 3
+
+This task consists of using a 7-segment display and "drawing" on it by using a joystick to move through the component's segments and making them light. For each segment of the display I used a resistor (220Ω or 330Ω) which I then connected to the arduino pins as seen in the following scheme.
+![image](https://github.com/cosminabarbu/IntroductionToRobotics/assets/93591428/20501e15-6f65-4977-972e-3a4cd4d9adfc)
+
+Lastly, I connected the joystick to the arduino and got to work.
+
+![setup3](https://github.com/cosminabarbu/IntroductionToRobotics/assets/93591428/e084a630-bcba-4a5d-8e61-c3aa03188b09)
+
+Youtube link: https://youtu.be/p8XjfkXcT8g?si=ZGsuWSaOdnA6sdmf
+
+
 
 
