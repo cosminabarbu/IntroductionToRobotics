@@ -7,7 +7,7 @@ The Robotics laboratory assignments are part of the curriculum for third-year st
 
 This task emphasizes the management of each channel (Red, Green, and Blue) of an RGB LED through three separate potentiometers according to the following setup: 
 
-![setup](https://github.com/cosminabarbu/IntroductionToRobotics/assets/93591428/81300097-e4d1-4ff5-8bf3-aa2c8c0fba75)
+https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup1.jpg
 
 Can also be seen at: https://www.youtube.com/watch?v=sFL1ZQPevVA .
 
@@ -17,7 +17,7 @@ Can also be seen at: https://www.youtube.com/watch?v=sFL1ZQPevVA .
 For this task I will be implementing a 3-floor elevator simulator using Arduino and a few components, such as LEDs, buttons and a buzzer. 
 Taking the process step by step, I began by placing 3 buttons on a breadboard which I then connected to 3 LEDs, one LED for each button. Each LED has also its own resistor (I used the 330 Ω ones) that is connected to GND on the breadboard. I used a fourth LED and implemented it so that when the elevator is moving it is blinking, then when the elevator is in idle state it stays on. The last step was adding the buzzer, which makes different-toned noises when the elevator leaves a floor or arrives at a floor. 
 
-![setup2](https://github.com/cosminabarbu/IntroductionToRobotics/assets/93591428/04c95e05-b8a4-47fb-a687-999f93806e25)
+https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup2.jpg
 
 
 Youtube link: https://youtu.be/r8Axozp_nhE .
@@ -30,10 +30,18 @@ This task consists of using a 7-segment display and "drawing" on it by using a j
 
 Lastly, I connected the joystick to the arduino and got to work.
 
-![setup3](https://github.com/cosminabarbu/IntroductionToRobotics/assets/93591428/e084a630-bcba-4a5d-8e61-c3aa03188b09)
+https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup3.jpeg
 
 Youtube link: https://youtu.be/p8XjfkXcT8g?si=ZGsuWSaOdnA6sdmf
 
+# Homework no. 4
 
+This task is something close to a big brother of the last one. For this homework I will be implementing a 4 digit 7 segment display to act like a stopwatch timer using a SR (Shift Register) for multiplexing. To start with, the hardest part of getting the setup done was dealing with the resistors for the display and the cables (it can be seen that cable management is not in its greatest form). Afterwards, I added the push-buttons on another breadboard and connected them to ground and the arduino. Each button has its own task: the 1st button is the reset button, the 2nd button is called start/stop button and the 3rd one is for laps. Each one works as following:
+  ~ the reset button should set all digits to 0 only when the timer is not counting and also, when pressed, it should delete all of the laps saved prior.
+  ~ the start/stop button does what its own name says: if it's pressed when the timer is in idle mode, it will start counting and if pressed when the timer is counting, it will pause the counting process and display the number of that current moment.
+  ~ the laps button can save laps when the timer is running or cycle through the saved laps once the timer is paused. 
 
+https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup4.jpg
+
+Youtube link: 
 
