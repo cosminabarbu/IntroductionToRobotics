@@ -37,9 +37,11 @@ Youtube link: https://youtu.be/p8XjfkXcT8g?si=ZGsuWSaOdnA6sdmf
 # Homework no. 4
 
 This task is something close to a big brother of the last one. For this homework I will be implementing a 4 digit 7 segment display to act like a stopwatch timer using a SR (Shift Register) for multiplexing. To start with, the hardest part of getting the setup done was dealing with the resistors for the display and the cables (it can be seen that cable management is not in its greatest form). Afterwards, I added the push-buttons on another breadboard and connected them to ground and the arduino. Each button has its own task: the 1st button is the reset button, the 2nd button is called start/stop button and the 3rd one is for laps. Each one works as following:
- <a href="r"> - the reset button should set all digits to 0 only when the timer is not counting and also, when pressed, it should delete all of the laps saved prior. </a>
-  < a href="ss"> - the start/stop button does what its own name says: if it's pressed when the timer is in idle mode, it will start counting and if pressed when the timer is counting, it will pause the counting process and display the number of that current moment. </a>
- <a href="l"> - the laps button can save laps when the timer is running or cycle through the saved laps once the timer is paused. </a>
+  - the reset button should set all digits to 0 only when the timer is not counting and also, when pressed, it should delete all of the laps saved prior.
+    
+  - the start/stop button does what its own name says: if it's pressed when the timer is in idle mode, it will start counting and if pressed when the timer is counting, it will pause the counting process and display the number of that current moment.
+    
+  - the laps button can save laps when the timer is running or cycle through the saved laps once the timer is paused. 
 
 Link to the setup photo: https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup4.jpg
 
