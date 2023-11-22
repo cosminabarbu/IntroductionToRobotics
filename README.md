@@ -51,3 +51,7 @@ Youtube link: https://youtu.be/eY0EQmNK5Sc
 
 Create an "Intelligent Environment Monitoring and Logging System" with Arduino. Employ a range of sensors to collect environmental data, store it in EEPROM, and offer visual indications through an RGB LED. Enable user interaction via a Serial Menu, emphasizing the integration of sensor data, memory management, Serial Communication, and the overarching goal of constructing a menu system
 
+Setup photo: https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup5.jpg .
+
+Youtube link: https://youtu.be/ayAptRnU-Lw .
+
