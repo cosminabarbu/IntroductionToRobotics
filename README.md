@@ -7,7 +7,11 @@ The Robotics laboratory assignments are part of the curriculum for third-year st
 
 This task emphasizes the management of each channel (Red, Green, and Blue) of an RGB LED through three separate potentiometers according to the following setup: 
 
-Link to the setup photo: https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup1.jpg
+Setup photo: 
+
+<p align="center">
+  <img src="setups/setup1.jpg" width="350" title="hover text">
+</p>
 
 Can also be seen at: https://www.youtube.com/watch?v=sFL1ZQPevVA .
 
