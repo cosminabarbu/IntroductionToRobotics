@@ -63,7 +63,6 @@ Setup photo:
 
 <p align="center">
   <img src="setup-matrix.jpeg" width="350" title="matrix setup">
-  <img src="setup-matrix.jpeg" width="350" alt="accessibility text">
 </p>
 
 Youtube link: https://youtu.be/gp_kd0DJaIs .
