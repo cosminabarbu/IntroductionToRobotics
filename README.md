@@ -21,7 +21,11 @@ Can also be seen at: https://www.youtube.com/watch?v=sFL1ZQPevVA .
 For this task I will be implementing a 3-floor elevator simulator using Arduino and a few components, such as LEDs, buttons and a buzzer. 
 Taking the process step by step, I began by placing 3 buttons on a breadboard which I then connected to 3 LEDs, one LED for each button. Each LED has also its own resistor (I used the 330 Ω ones) that is connected to GND on the breadboard. I used a fourth LED and implemented it so that when the elevator is moving it is blinking, then when the elevator is in idle state it stays on. The last step was adding the buzzer, which makes different-toned noises when the elevator leaves a floor or arrives at a floor. 
 
-Link to the setup photo: https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup2.jpg
+Setup photo: 
+
+<p align="center">
+  <img src="setups/setup2.jpg" width="350" title="hover text">
+</p>
 
 
 Youtube link: https://youtu.be/r8Axozp_nhE .
@@ -34,7 +38,11 @@ This task consists of using a 7-segment display and "drawing" on it by using a j
 
 Lastly, I connected the joystick to the arduino and got to work.
 
-Link to the setup photo: https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup3.jpeg
+Setup photo: 
+
+<p align="center">
+  <img src="setups/setup3.jpg" width="350" title="hover text">
+</p>
 
 Youtube link: https://youtu.be/p8XjfkXcT8g?si=ZGsuWSaOdnA6sdmf
 
@@ -47,7 +55,11 @@ This task is something close to a big brother of the last one. For this homework
     
   - the laps button can save laps when the timer is running or cycle through the saved laps once the timer is paused. 
 
-Link to the setup photo: https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup4.jpg
+Setup photo: 
+
+<p align="center">
+  <img src="setups/setup4.jpg" width="350" title="hover text">
+</p>
 
 Youtube link: https://youtu.be/eY0EQmNK5Sc
 
@@ -55,7 +67,11 @@ Youtube link: https://youtu.be/eY0EQmNK5Sc
 
 Create an "Intelligent Environment Monitoring and Logging System" with Arduino. Employ a range of sensors to collect environmental data, store it in EEPROM, and offer visual indications through an RGB LED. Enable user interaction via a Serial Menu, emphasizing the integration of sensor data, memory management, Serial Communication, and the overarching goal of constructing a menu system
 
-Setup photo: https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/setups/setup5.jpg .
+Setup photo: 
+
+<p align="center">
+  <img src="setups/setup5.jpg" width="350" title="hover text">
+</p>
 
 Youtube link: https://youtu.be/ayAptRnU-Lw .
 
