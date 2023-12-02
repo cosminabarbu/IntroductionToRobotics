@@ -55,3 +55,15 @@ Setup photo: https://github.com/cosminabarbu/IntroductionToRobotics/blob/main/se
 
 Youtube link: https://youtu.be/ayAptRnU-Lw .
 
+# Homework no. 6 - 1st checkpoint of the matrix project.
+
+First phase is creating a Bomberman like game with a player, a (kind of) labyrinth and multiple bombs that the player can use to destroy the labyrinth walls with. The purpose of the game is to destroy the entire labyrinth as quick as possible. To tell apart the elements from one another, each one appears differently: the walls are represented by dots always lighting, the player is the dot slowly blinking and the bomb is accurately represented by a dot on the matrix that blinks rapidly, in a threatening way.
+
+Setup photo:
+
+<p align="center">
+  <img src="setup-matrix.jpeg" width="350" title="matrix setup">
+  <img src="setup-matrix.jpeg" width="350" alt="accessibility text">
+</p>
+
+Youtube link: https://youtu.be/gp_kd0DJaIs .
