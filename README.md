@@ -41,7 +41,7 @@ Lastly, I connected the joystick to the arduino and got to work.
 Setup photo: 
 
 <p align="center">
-  <img src="setups/setup3.jpg" width="350" title="hover text">
+  <img src="setups/setup3.jpeg" width="350" title="hover text">
 </p>
 
 Youtube link: https://youtu.be/p8XjfkXcT8g?si=ZGsuWSaOdnA6sdmf
